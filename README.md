@@ -14,3 +14,5 @@ Soy Técnico Superior en Desarrollo de Software. Actualmente, dedico mi tiempo a
 *¿Cómo pueden contactarte?*
 - **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-alejandro-mendez-maturano-87b207285/)
 - **Email:** [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mendezmaturano6@gmail.com)
+- **Portfolio:** [Mi Portfolio](https://portfolio-nahuels-projects-41a22c7b.vercel.app/)
+- **TicMeal Landing Page:** [TicMeal](https://ticmeal.vercel.app/)
